@@ -1,0 +1,49 @@
+[
+    {
+        "name":"name",
+        "label":"Animal name",
+        "required": true,
+        "data_type":"string",
+        "input_type":"text",
+        "value":""
+    }, 
+    {
+        "name":"description",
+        "label":"Description",
+        "required": true,
+        "data_type":"string",
+        "input_type":"textarea",
+        "value":""
+    }, 
+   
+    {
+        "name":"gender",
+        "label":"Male",
+        "required": true,
+        "data_type":"",
+        "input_type":"radio",
+        "value":"M"
+    },
+    {
+        "name":"gender",
+        "label":"Female",
+        "required": true,
+        "data_type":"",
+        "input_type":"radio",
+        "value":"F"
+    },
+   
+   
+    {
+        "name":"photo",
+        "label":"Photo",
+        "hidden":false,
+        
+        "required":true,
+        "data_type":"image",
+        "input_type":"file"
+
+      }
+  
+   
+]

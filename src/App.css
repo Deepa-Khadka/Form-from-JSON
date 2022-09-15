@@ -1,0 +1,18 @@
+
+.form-outer{
+    width: 60%;
+    padding: 20px;
+   border-radius: 10px;
+   box-shadow: 0px 0px 10px #dddddd;
+    border: "2px solid #d5d5d5";
+    margin: 20px auto;
+    text-align: left;
+   
+}
+.form-outer input{
+   min-width: 50%;
+   
+    border: 1px solid rgba(8, 8, 8, 0.867);
+   
+
+}

@@ -1,0 +1,59 @@
+ [
+   
+    {
+        "name":"username",
+        "label":"Username here",
+        "required": true,
+        "data_type":"String",
+        "input_type":"text",
+        "value":""
+    },
+    {
+        "name":"email",
+        "label":"Email here",
+        "required": true,
+        "data_type":"String",
+        "input_type":"email",
+        "value":""
+    },
+    {
+        "name":"phone",
+        "label":"Enter phone number",
+        "required": true,
+        "data_type":"integer",
+        "input_type":"text",
+        "value":""
+    },
+    {
+        "name":"dob",
+        "label":"Select Dob",
+        "required": true,
+        "data_type":"String",
+        "input_type":"date",
+        "value":""
+    }, 
+    {
+        "name":"gender",
+        "label":"Male",
+        "required": true,
+        "data_type":"",
+        "input_type":"radio",
+        "value":"M"
+    },
+    {
+        "name":"gender",
+        "label":"Female",
+        "required": true,
+        "data_type":"",
+        "input_type":"radio",
+        "value":"F"
+    },
+    {
+        "name":"gender",
+        "label":"Other",
+        "required": true,
+        "data_type":"",
+        "input_type":"radio",
+        "value":"O"
+    }
+]

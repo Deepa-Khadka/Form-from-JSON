@@ -1,0 +1,57 @@
+ [
+    {
+        "name":"name",
+        "label":"Name",
+        "required": true,
+        "data_type":"string",
+        "input_type":"text",
+        "value":""
+    }, 
+   
+   
+    {
+        "name":"release",
+        "label":"Release date",
+        "required": true,
+        "data_type":"date",
+        "input_type":"date",
+        "value":""
+    }, 
+    {
+        "name":"colour",
+        "label":"colour",
+        "required": true,
+        "data_type":"string",
+        "input_type":"colour",
+        "value":""
+    }, 
+    {
+        "name":"modelno",
+        "label":"Model no",
+        "required": true,
+        "data_type":"string",
+        "input_type":"text",
+        "value":""
+    }, 
+    {
+        "name":"wheels",
+        "label":"No of Wheels",
+        "required": true,
+        "data_type":"integer",
+        "input_type":"number",
+        "value":""
+    },
+
+    {
+        "name":"photo",
+        "label":"photo",
+        "hidden":false,
+    
+        "required":true,
+        "data_type":"image",
+        "input_type":"file"
+
+      }
+  
+   
+]
